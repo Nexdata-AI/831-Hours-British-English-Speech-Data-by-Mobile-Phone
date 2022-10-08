@@ -1,8 +1,10 @@
 # 831-Hours-British-English-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/950
+
 
 ## Description
 831 Hours–Mobile Telephony British English Speech Data, which is recorded by 1651 native British speakers. The recording contents cover many categories such as generic, interactive, in-car and smart home. The texts are manually proofreaded to ensure a high accuracy rate. The database matchs the Android system and IOS.
+
+For more details, please refer to the link: https://bit.ly/3Scsa9P
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ English
 
 ## Application scenarios
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
