@@ -4,7 +4,7 @@
 ## Description
 831 Hours–Mobile Telephony British English Speech Data, which is recorded by 1651 native British speakers. The recording contents cover many categories such as generic, interactive, in-car and smart home. The texts are manually proofreaded to ensure a high accuracy rate. The database matchs the Android system and IOS.
 
-For more details, please refer to the link: https://bit.ly/3Scsa9P
+For more details, please refer to the link: https://www.nexdata.ai/datasets/950?source=Github
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
